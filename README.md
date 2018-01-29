@@ -9,3 +9,4 @@ This is a return on investment calculator built with Java inside of Android Stud
 The calculator can be downloaded free on an Android device from the google store at:
 https://play.google.com/store/apps/details?id=com.InvestProfits.jimvickery.investingreturncalculator
 
+![Alt text](investcalc.png?raw=true "Title")
